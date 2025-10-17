@@ -81,6 +81,11 @@
     width: 15vw;
 }
 
+#previous,
+#next {
+    cursor: pointer;
+}
+
 #navDiscover div {
     padding: 0.7rem;
     display: flex;
