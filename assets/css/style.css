@@ -81,6 +81,11 @@
     width: 15vw;
 }
 
+#previous:hover,
+#next:hover {
+    background-color: darkgrey;
+}
+
 #previous,
 #next {
     cursor: pointer;
