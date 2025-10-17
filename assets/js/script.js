@@ -7,8 +7,8 @@ let slideIndex = 0;
 
 const backgroundUrls = [
     "./assets/img/desktop-image-hero-1.jpg",
-    "assets/img/desktop-image-hero-2.jpg",
-    "assets/img/desktop-image-hero-3.jpg"
+    "./assets/img/desktop-image-hero-2.jpg",
+    "./assets/img/desktop-image-hero-3.jpg"
 ];
 
 function showText(nb) {
